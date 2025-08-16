@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhathiya Jayasinghe</h1>
 <h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhathiya-learning&label=Profile%20views&color=0e75b6&style=flat" alt="bhathiya-learning" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhathiya-learning&label=Profile%20views&color=0e75b6&style=flat" alt="bhathiya-learning" /> </p>
 
 | ![Bhathiya's github stats](https://github-readme-stats.vercel.app/api?username=Bhathiya-learning&show_icons=true&theme=tokyonight) | ![Bhathiya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhathiya-learning&theme=tokyonight) |
 | --- | --- |

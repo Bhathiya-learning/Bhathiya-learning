@@ -7,7 +7,7 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhathiya-learning&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Bhathiya-learning&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-- 🔭 I’m currently working on **ElectrnyX**
+- 🔭 I’m currently working on **ElectronyX**
 
 - 🌱 I’m currently learning **Java, Spring Boot, Laravel, React, Js**
 

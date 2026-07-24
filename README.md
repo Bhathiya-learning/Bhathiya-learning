@@ -1,27 +1,83 @@
-<h1 align="center">Hi 👋, I'm Bhathiya Jayasinghe</h1>
-<h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
+<!-- HEADER SECTION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Bhathiya%20Jayasinghe&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=62" width="100%"/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhathiya-learning&label=Profile%20views&color=0e75b6&style=flat" alt="bhathiya-learning" /> </p>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BSc+(Hons)+Software+Engineering+%40+BCU;Java+%2B+Spring+Boot+Backend+Developer;React+%2B+Laravel+Full-Stack+Enthusiast;Building+Scalable+%26+Modern+Web+Apps" alt="Typing Banner" />
+  </a>
 
-| ![Bhathiya's github stats](https://github-readme-stats.vercel.app/api?username=Bhathiya-learning&show_icons=true&theme=tokyonight) | ![Bhathiya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhathiya-learning&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhathiya-learning&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Bhathiya-learning&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+  <br><br>
 
-- 🔭 I’m currently working on **ElectronyX**
+  <!-- QUICK SOCIAL BADGES -->
+  <a href="https://linkedin.com/in/sandeepa-bhathiya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bhathiya.official99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/bhathiyajayasinghe99">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_bxyya.j___x15">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **Java, Spring Boot, Laravel, React, Js**
+<br>
 
-- 💬 Ask me about **Java**
+---
 
-- 📫 How to reach me **bhathiya.official99@gmail.com**
+### 👨‍💻 Profile Overview
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sandeepa-bhathiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepa-bhathiya" height="30" width="40" /></a>
-<a href="https://fb.com/bhathiyajayasinghe99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhathiyajayasinghe99" height="30" width="40" /></a>
-<a href="https://instagram.com/_bxyya.j___x15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bxyya.j___x15" height="30" width="40" /></a>
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <br>
+      <ul>
+        <li>🎓 <b>Education:</b> BSc (Hons) Software Engineering at <b>Birmingham City University (UK)</b></li>
+        <li>🔭 <b>Current Focus:</b> Building <b>ElectronyX</b>, an e-commerce platform</li>
+        <li>🌱 <b>Learning Path:</b> Microservices Architecture, Docker, and Spring Cloud</li>
+        <li>💡 <b>Core Strengths:</b> Full-stack web development, REST API design, OOP & Clean Code</li>
+        <li>📫 <b>Contact:</b> <a href="mailto:bhathiya.official99@gmail.com">bhathiya.official99@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <a href="https://github.com/bhathiya-learning">
+        <img src="https://github.com/bhathiya-learning.png" width="170" style="border-radius: 50%; border: 3px solid #58A6FF;" alt="Bhathiya Jayasinghe" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  </p>
+### 🛠️ Technology & Skill Set
+
+<div align="center">
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Tools & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+
+</div>
+
+### 📈 GitHub Activity & Stats
+
+<div align="center">
+
+  <!-- TOP LANGUAGES & MAIN STATS (OFFICIAL VERCEL API) -->
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhathiya-learning&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" width="100%"/>
+</div>
